@@ -1,4 +1,4 @@
-# Baseline Approach
+# Baseline Approaches
 
 Here we used both the cointegration ("Cointegration_Method.ipynb) and the Kalman fitering approaches ("Kalman Filter_BBand.ipynd") to design our 
 baseline strategies. Here I thank my team member Jiayu Liu to contribute her work towards designing the baseline strategies. 
